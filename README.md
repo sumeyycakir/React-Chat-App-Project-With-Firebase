@@ -20,7 +20,7 @@ Firebase hesabı oluşturulmalı ve proje başlatılmalıdır.
 Bu repository'yi bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/kullanici-adi/realtime-chat-app.git
+git clone https://github.com/sumeyycakir/React-Chat-App-Project-With-Firebase.git
 ```
 Gerekli bağımlılıkları yükleyin:
 
